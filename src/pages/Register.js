@@ -109,6 +109,7 @@ export default class Register extends Component {
             </Link>
           </div>
         </form>
+      
       </div>
      </>
     );

@@ -14,7 +14,7 @@ export default class Login extends Component {
     return (
       <>
       <Logo />
-      <div className="md:w-3/5 lg:w-2/5 md:mx-auto mx-3 md:mt-20 lg:mt-30 mt-16">
+      <div className="md:w-3/5 lg:w-2/5 md:mx-auto mx-3 md:mt-20 lg:mt-10 mt-16">
         <form className="bg-white shadow-md rounded px-5 md:-px-8 pt-6 pb-8 mb-4 lg:p-10">
           <div className="mb-4">
             <label
